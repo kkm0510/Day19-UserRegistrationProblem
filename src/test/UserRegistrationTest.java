@@ -7,7 +7,13 @@ import static main.UserRegistration.*;
 public class UserRegistrationTest {
 
     @Test
-    public void givenAFirstNameCheckIfItIsValid() {
+    public void givenFirstNameCheckIfItIsValid() {
         Assert.assertTrue(checkValidName("Kartikeya"));
     }
+
+    @Test
+    public void givenLastNameCheckIfItIsValid() {
+        Assert.assertTrue(checkValidName("Maan"));
+    }
+
 }
