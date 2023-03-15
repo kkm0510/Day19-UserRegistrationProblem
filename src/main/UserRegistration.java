@@ -19,4 +19,10 @@ public class UserRegistration {
         return ans;
     }
 
+    public static boolean checkValidMobileNumber(String number){
+        Pattern pattern=Pattern.compile("[0-9]{2}[ ][0-9]{10}");
+        Matcher matcher=pattern.matcher(number);
+        boolean ans=matcher.matches();
+        return ans;
+    }
 }

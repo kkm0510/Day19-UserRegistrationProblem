@@ -57,4 +57,9 @@ public class UserRegistrationTest {
             Assert.assertFalse(checkValidEmail(email));
         }
     }
+
+    @Test
+    public void givenMobileNumberCheckIfItIsValid() {
+        Assert.assertTrue(checkValidMobileNumber("91 9411549322"));
+    }
 }

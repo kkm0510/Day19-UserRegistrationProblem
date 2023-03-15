@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="UC2-LAST_NAME" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
   </component>
@@ -57,23 +57,7 @@
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserRegistrationTest.givenMultipleEmailAddressesCheckCorrectAreValidAndInCorrectAreInvalid">
-    <configuration name="UserRegistrationTest.givenAFirstNameCheckIfItIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Day19-UserRegistrationProblem" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.UserRegistrationTest" />
-      <option name="METHOD_NAME" value="givenAFirstNameCheckIfItIsValid" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.UserRegistrationTest.givenMobileNumberCheckIfItIsValid">
     <configuration name="UserRegistrationTest.givenALastNameCheckIfItIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day19-UserRegistrationProblem" />
       <extension name="coverage">
@@ -122,6 +106,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserRegistrationTest.givenMobileNumberCheckIfItIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day19-UserRegistrationProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="givenMobileNumberCheckIfItIsValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserRegistrationTest.givenMultipleEmailAddressesCheckCorrectAreValidAndInCorrectAreInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day19-UserRegistrationProblem" />
       <extension name="coverage">
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserRegistrationTest.givenMobileNumberCheckIfItIsValid" />
         <item itemvalue="JUnit.UserRegistrationTest.givenMultipleEmailAddressesCheckCorrectAreValidAndInCorrectAreInvalid" />
         <item itemvalue="JUnit.UserRegistrationTest.givenEmailAddressCheckIfItIsValid" />
         <item itemvalue="JUnit.UserRegistrationTest.givenLastNameCheckIfItIsValid" />
         <item itemvalue="JUnit.UserRegistrationTest.givenALastNameCheckIfItIsValid" />
-        <item itemvalue="JUnit.UserRegistrationTest.givenAFirstNameCheckIfItIsValid" />
       </list>
     </recent_temporary>
   </component>
