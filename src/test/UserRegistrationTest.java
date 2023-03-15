@@ -62,4 +62,10 @@ public class UserRegistrationTest {
     public void givenMobileNumberCheckIfItIsValid() {
         Assert.assertTrue(checkValidMobileNumber("91 9411549322"));
     }
+
+    @Test
+    public void givenPasswordCheckIfItIsValid() {
+        Assert.assertTrue(checkValidPassword("asdj5235ashd"));
+    }
+
 }

@@ -25,4 +25,12 @@ public class UserRegistration {
         boolean ans=matcher.matches();
         return ans;
     }
+
+    public static boolean checkValidPassword(String password){
+        Pattern pattern=Pattern.compile("[a-zA-Z0-9]{8,}");
+        Matcher matcher=pattern.matcher(password);
+        boolean ans=matcher.matches();
+        return ans;
+    }
+
 }

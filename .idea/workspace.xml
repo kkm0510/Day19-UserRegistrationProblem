@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be52535-38b1-4861-a154-4e3e0ca71b57" name="Changes" comment="ADDED : code for valid last name">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6be52535-38b1-4861-a154-4e3e0ca71b57" name="Changes" comment="ADDED : code for valid mobile number">
       <change beforePath="$PROJECT_DIR$/src/main/UserRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UserRegistration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/UserRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/UserRegistrationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,23 +55,7 @@
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserRegistrationTest.givenMobileNumberCheckIfItIsValid">
-    <configuration name="UserRegistrationTest.givenALastNameCheckIfItIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Day19-UserRegistrationProblem" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.UserRegistrationTest" />
-      <option name="METHOD_NAME" value="givenALastNameCheckIfItIsValid" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.UserRegistrationTest.givenPasswordCheckIfItIsValid">
     <configuration name="UserRegistrationTest.givenEmailAddressCheckIfItIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day19-UserRegistrationProblem" />
       <extension name="coverage">
@@ -138,13 +120,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserRegistrationTest.givenPasswordCheckIfItIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day19-UserRegistrationProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="givenPasswordCheckIfItIsValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserRegistrationTest.givenPasswordCheckIfItIsValid" />
         <item itemvalue="JUnit.UserRegistrationTest.givenMobileNumberCheckIfItIsValid" />
         <item itemvalue="JUnit.UserRegistrationTest.givenMultipleEmailAddressesCheckCorrectAreValidAndInCorrectAreInvalid" />
         <item itemvalue="JUnit.UserRegistrationTest.givenEmailAddressCheckIfItIsValid" />
         <item itemvalue="JUnit.UserRegistrationTest.givenLastNameCheckIfItIsValid" />
-        <item itemvalue="JUnit.UserRegistrationTest.givenALastNameCheckIfItIsValid" />
       </list>
     </recent_temporary>
   </component>
@@ -171,12 +169,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678871039826</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ADDED : code for valid mobile number">
+      <created>1678875321737</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678875321737</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ADDED : class for user registration program" />
     <MESSAGE value="ADDED : code for valid last name" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADDED : code for valid last name" />
+    <MESSAGE value="ADDED : code for valid mobile number" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADDED : code for valid mobile number" />
   </component>
 </project>
