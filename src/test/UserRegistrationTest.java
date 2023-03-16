@@ -68,7 +68,7 @@ public class UserRegistrationTest {
 
     @Test
     public void givenPasswordCheckIfItIsValid() {
-        Assert.assertTrue(checkValidPassword("Kartikeya"));
+        Assert.assertTrue(checkValidPassword("Kart1kEya"));
     }
 
 }
