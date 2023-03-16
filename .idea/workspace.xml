@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be52535-38b1-4861-a154-4e3e0ca71b57" name="Changes" comment="ADDED : code for valid mobile number">
+    <list default="true" id="6be52535-38b1-4861-a154-4e3e0ca71b57" name="Changes" comment="ADDED : code for valid password rule1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/UserRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UserRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/UserRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/UserRegistrationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,8 +141,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.UserRegistrationTest.givenPasswordCheckIfItIsValid" />
-        <item itemvalue="JUnit.UserRegistrationTest.givenMobileNumberCheckIfItIsValid" />
         <item itemvalue="JUnit.UserRegistrationTest.givenMultipleEmailAddressesCheckCorrectAreValidAndInCorrectAreInvalid" />
+        <item itemvalue="JUnit.UserRegistrationTest.givenMobileNumberCheckIfItIsValid" />
         <item itemvalue="JUnit.UserRegistrationTest.givenEmailAddressCheckIfItIsValid" />
         <item itemvalue="JUnit.UserRegistrationTest.givenLastNameCheckIfItIsValid" />
       </list>
