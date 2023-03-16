@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be52535-38b1-4861-a154-4e3e0ca71b57" name="Changes" comment="ADDED : code for valid password rule1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6be52535-38b1-4861-a154-4e3e0ca71b57" name="Changes" comment="ADDED : code for valid password rule3">
       <change beforePath="$PROJECT_DIR$/src/main/UserRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UserRegistration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/UserRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/UserRegistrationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="UC7-PASSWORD3" />
       </map>
     </option>
   </component>
@@ -178,13 +176,29 @@
       <option name="project" value="LOCAL" />
       <updated>1678875321737</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ADDED : code for valid password rule2">
+      <created>1678958463005</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678958463005</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ADDED : code for valid password rule3">
+      <created>1678958679918</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678958679918</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ADDED : class for user registration program" />
     <MESSAGE value="ADDED : code for valid last name" />
     <MESSAGE value="ADDED : code for valid mobile number" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADDED : code for valid mobile number" />
+    <MESSAGE value="ADDED : code for valid password rule2" />
+    <MESSAGE value="ADDED : code for valid password rule3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADDED : code for valid password rule3" />
   </component>
 </project>
