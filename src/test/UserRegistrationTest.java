@@ -50,15 +50,12 @@ public class UserRegistrationTest {
                 "abc@gmail.com.1a",
                 "abc@gmail.com.aa.au",
         };
-
         String[][] emails = {validEmails, invalidEmails};
-
         for (int i = 0; i < emails.length; i++) {
             for (int j = 0; j < emails[i].length; j++) {
                 Assert.assertEquals(i == 0, checkValidEmail(emails[i][j]));
             }
         }
-
     }
 
     @Test
@@ -70,5 +67,4 @@ public class UserRegistrationTest {
     public void givenPasswordCheckIfItIsValid() {
         Assert.assertTrue(checkValidPassword("K@rt1kEya"));
     }
-
 }

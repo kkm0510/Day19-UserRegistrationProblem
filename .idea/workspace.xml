@@ -55,7 +55,7 @@
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserRegistrationTest.givenPasswordCheckIfItIsValid">
+  <component name="RunManager" selected="JUnit.UserRegistrationTest.givenMultipleEmailAddressesCheckCorrectAreValidAndInCorrectAreInvalid">
     <configuration name="UserRegistrationTest.givenEmailAddressCheckIfItIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day19-UserRegistrationProblem" />
       <extension name="coverage">
@@ -138,8 +138,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserRegistrationTest.givenPasswordCheckIfItIsValid" />
         <item itemvalue="JUnit.UserRegistrationTest.givenMultipleEmailAddressesCheckCorrectAreValidAndInCorrectAreInvalid" />
+        <item itemvalue="JUnit.UserRegistrationTest.givenPasswordCheckIfItIsValid" />
         <item itemvalue="JUnit.UserRegistrationTest.givenMobileNumberCheckIfItIsValid" />
         <item itemvalue="JUnit.UserRegistrationTest.givenEmailAddressCheckIfItIsValid" />
         <item itemvalue="JUnit.UserRegistrationTest.givenLastNameCheckIfItIsValid" />
